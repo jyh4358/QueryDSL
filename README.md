@@ -9,7 +9,7 @@
 22.03.22
   - [QueryDSL 설정 및 검증](https://jddng.tistory.com/331)
   
-22.03.23
+22.03.23 ~ 22.03.24
   - [QueryDSL 기본 문법](https://jddng.tistory.com/334)
     1. Querydsl 사용 방법
     2. Q-Type
@@ -18,6 +18,10 @@
     5. 정렬
     6. 페이징
     7. 집합 - 집합 함수, groupby, having
+    8. 조인 - on절, 페치 조인
+    9. 서브 쿼리
+    10. case
+    11. 상수, 문자 더하기
     
     
 ## 구현 
@@ -25,4 +29,9 @@
 22.03.22
   - 예제 도메인 생성. (Member, Team)
   - 예제 도메인 테스트
+
+22.03.24
+- 기본 문법 테스트. QuerydslBasicTest
+
+
   
