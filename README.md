@@ -22,6 +22,13 @@
     9. 서브 쿼리
     10. case
     11. 상수, 문자 더하기
+
+22.03.25
+- [프로젝션에 따른 결과 반환](https://jddng.tistory.com/336)
+- [DTO로 조회하기](https://jddng.tistory.com/337)
+- [BooleanBuilder를 이용한 동적 쿼리](https://jddng.tistory.com/338)
+- [where절을 이용한 동적 쿼리](https://jddng.tistory.com/339)
+- [수정, 삭제 벌크 연산](https://jddng.tistory.com/340)
     
     
 ## 구현 
